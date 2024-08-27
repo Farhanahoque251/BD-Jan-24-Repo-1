@@ -1,6 +1,5 @@
 # Power-Bi-300hrs-proj(Agency Expert)
-# Collaboration Workflow for BD-Jan-24-Repo-1
-
+# Collaboration Workflow for Test Repository
 ## Step 1: Setting Up the Repository
 
 1. **Accept Collaboration Invitation:**
