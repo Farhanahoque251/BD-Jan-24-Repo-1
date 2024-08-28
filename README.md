@@ -8,7 +8,7 @@
 2. **Clone the Repository:**
    - Open GitHub Desktop.
    - Log in with your GitHub account.
-   - Select `BD-Jan-24-Repo-1` and click `Clone repository`.
+   - Select `Power-Bi-300hrs-proj` and click `Clone repository`.
    - Set the repository path to your preferred local directory.
    - Click `Ok` to complete the cloning process.
 
@@ -43,7 +43,7 @@
 ## Step 5: Create a Pull Request
 
 1. **Create a Pull Request to Merge Your Changes:**
-   - On GitHub.com, go to the `BD-Jan-24-Repo-1` repository.
+   - On GitHub.com, go to the `Power-Bi-300hrs-proj` repository.
    - Click `Compare & pull request` next to your branch.
    - Provide a brief description of the changes you've made.
    - Click `Create pull request` to initiate the review process.
